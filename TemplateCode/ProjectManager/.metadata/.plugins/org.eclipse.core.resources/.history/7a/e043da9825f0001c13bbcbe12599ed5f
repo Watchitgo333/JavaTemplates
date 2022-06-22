@@ -1,0 +1,9 @@
+package com.codingdojo.projectmanager.repositories;
+
+
+@Repository
+public interface ProjectRepository extends CrudRepository<Project, Long> {
+	
+	List<Project> findAll();
+
+}

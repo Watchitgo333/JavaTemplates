@@ -1,0 +1,6 @@
+package com.codingdojo.projectmanager.repositories;
+
+@Repository
+public interface UserRepository extends CrudRepository<User, Long> {
+
+}

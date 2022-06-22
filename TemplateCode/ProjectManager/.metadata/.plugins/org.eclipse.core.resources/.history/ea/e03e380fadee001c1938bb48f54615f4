@@ -1,0 +1,8 @@
+package com.codingdojo.projectmanager.models;
+
+
+public class LoginUser {
+
+	@NotEmpty(message="Please enter a valid email.")
+	@Email(message="Please enter a valid email.")
+}

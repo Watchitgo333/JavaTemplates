@@ -1,0 +1,9 @@
+package com.codingdojo.projectmanager.services;
+
+@Service
+public class ProjectService {
+	
+	@Autowired
+	public projectRepository projectRepository;
+
+}

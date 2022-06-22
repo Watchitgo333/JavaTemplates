@@ -1,0 +1,9 @@
+package com.codingdojo.projectmanager.services;
+
+@Service
+public class UserService {
+	
+	@Autowired
+	public UserRepository userRepository;
+
+}

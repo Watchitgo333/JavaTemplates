@@ -1,0 +1,9 @@
+package com.codingdojo.projectmanager.models;
+
+@Entity
+@Table(name="users")
+public class User {
+	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+
+}

@@ -1,0 +1,13 @@
+package com.codingdojo.projectmanager.models;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="tasks")
+public class Task {
+	
+	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	private Long id;
+}

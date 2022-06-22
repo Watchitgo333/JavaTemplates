@@ -1,0 +1,6 @@
+package com.codingdojo.projectmanager.repositories;
+
+@Repository
+public interface TaskRepository extends CrudRepository<Task, Long>{
+	
+}

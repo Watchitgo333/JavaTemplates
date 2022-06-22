@@ -1,0 +1,8 @@
+package com.codingdojo.projectmanager.services;
+
+@Service
+public class TaskService {
+
+	@Autowired
+	public TaskRepository taskRepository;
+}

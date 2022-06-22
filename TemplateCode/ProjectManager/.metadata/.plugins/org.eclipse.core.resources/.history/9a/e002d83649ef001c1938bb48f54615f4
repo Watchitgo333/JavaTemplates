@@ -1,0 +1,7 @@
+package com.codingdojo.projectmanager.models;
+
+@Entity
+@Table(name="projects")
+public class Project {
+
+}

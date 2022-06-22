@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\MEConsulting\Coding\CodingDojo\Java\JavaClass\May22Java\assignments\week6\ExtraBeltReview\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1008575591.index
+1762148399.index
+2413028005.index
+489368908.index
+2306724165.index
+1849512057.index
+3681443778.index
