@@ -1,6 +1,8 @@
 # JavaTemplates
 Template code for future projects.
 Thus far this project includes:
+
+
 -Login and Registration example
 
 
